@@ -36,9 +36,9 @@ pip install psutil
 1. Clone or download the script.
 2. Run the program in the terminal:
     ```bash
-    python net_monitor.py
+    python cursnet.py
     ```
-   Replace `net_monitor.py` with the actual filename if different.
+   Replace `cursnet.py` with the actual filename if different.
 
 3. **Navigate**: The interface refreshes every second, showing live updates of network statistics.
 
